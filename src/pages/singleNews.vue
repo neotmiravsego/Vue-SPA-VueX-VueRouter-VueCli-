@@ -20,7 +20,6 @@ export default {
     };
   },
   mounted() {
-    console.log(this.$route);
     axios.get("/news.json").then((response) => {
       this.singleNews = response.data.find(
         (news) => news.__id === this.$route.params.id

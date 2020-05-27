@@ -21,6 +21,7 @@
             <p>Область : {{ trainers_data.location.region }}</p>
             <p>Город: {{ trainers_data.location.city }}</p>
             <p>Рэйтинг :{{ trainers_data.raiting }}</p>
+            <p>Роль: {{ trainers_data.role }}</p>
           </div>
         </div>
       </div>

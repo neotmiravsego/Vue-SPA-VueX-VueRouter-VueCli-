@@ -1,13 +1,9 @@
 <template>
   <div class="slide-item">
     <img :src="slide_data.img" alt="" class="img-slide" />
-    <div class="wrap-count__like" v-if="slide_data.likes">
+    <div class="wrap-count__like">
       <img src="../../assets/like.png" alt="" class="img-like" />
       <p class="count-like">{{ slide_data.likes }}</p>
-    </div>
-    <div class="wrap-count__like" v-if="!slide_data.likes">
-      <img src="../../assets/like.png" alt="" class="img-like" />
-      <p class="count-like">0</p>
     </div>
   </div>
 </template>
@@ -19,10 +15,6 @@ export default {
       default: () => {},
     },
   },
-  data() {
-    return {};
-  },
-  computed: {},
 };
 </script>
 <style lang="scss">

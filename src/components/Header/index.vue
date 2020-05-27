@@ -15,7 +15,7 @@
         </button>
       </div>
       <div class="user-wrap__img">
-        <img :src="user.avatar" alt="Юзер" class="user-img" />
+        <img :src="user.avatar" alt="" class="user-img" />
       </div>
       <router-link to="/user/privat/office" class="link-pritave__office"
         >Личный кабинет</router-link
@@ -48,7 +48,10 @@ export default {
     },
     logout() {
       this.setLogout();
-      this.$router.push("/");
+      if (this.$route.path !== "/") {
+        console.log(this.$router);
+        this.$router.push("/");
+      }
     },
   },
 };
