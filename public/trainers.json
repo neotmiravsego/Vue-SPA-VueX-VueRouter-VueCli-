@@ -1,0 +1,130 @@
+[
+  {
+    "__id": "1",
+    "name": {
+      "firstName": "Иван",
+      "secondName": "Иванов"
+    },
+    "age": 25,
+    "avatar": "/images/avatar.png",
+    "location": {
+      "city": "Калининград",
+      "region": "Калининградская область",
+      "country": "Россия"
+    },
+    "role": "Роль Первая",
+    "raiting": 5
+  },
+  {
+    "__id": "2",
+    "name": {
+      "firstName": "Николай",
+      "secondName": "Иванов"
+    },
+    "age": 34,
+    "avatar": "/images/avatarTwo.jpg",
+    "location": {
+      "city": "Черняховск",
+      "region": "Калининградская область",
+      "country": "Россия"
+    },
+    "role": "Роль Первая",
+    "raiting": 5
+  },
+  {
+    "__id": "3",
+    "name": {
+      "firstName": "Саша",
+      "secondName": "Иванов"
+    },
+    "age": 40,
+    "avatar": "/images/avatarThree.jpg",
+    "location": {
+      "city": "Черняховск",
+      "region": "Калининградская область",
+      "country": "Россия"
+    },
+    "role": "Роль Первая",
+    "raiting": 5
+  },
+  {
+    "__id": "4",
+    "name": {
+      "firstName": "Артём",
+      "secondName": "Иванов"
+    },
+    "age": 18,
+    "avatar": "/images/avatarFour.jpg",
+    "location": {
+      "city": "Черняховск",
+      "region": "Калининградская область",
+      "country": "Россия"
+    },
+    "role": "Роль Первая",
+    "raiting": 5
+  },
+  {
+    "__id": "5",
+    "name": {
+      "firstName": "Анатолий",
+      "secondName": "Иванов"
+    },
+    "age": 35,
+    "avatar": "/images/avatarFive.jpg",
+    "location": {
+      "city": "Черняховск",
+      "region": "Калининградская область",
+      "country": "Россия"
+    },
+    "role": "Роль Первая",
+    "raiting": 10
+  },
+  {
+    "__id": "6",
+    "name": {
+      "firstName": "Иван",
+      "secondName": "Иванов"
+    },
+    "age": 31,
+    "avatar": "/images/avatarTwo.jpg",
+    "location": {
+      "city": "Черняховск",
+      "region": "Калининградская область",
+      "country": "Россия"
+    },
+    "role": "Роль Первая",
+    "raiting": 10
+  },
+  {
+    "__id": "7",
+    "name": {
+      "firstName": "Иван",
+      "secondName": "Иванов"
+    },
+    "age": 33,
+    "avatar": "/images/avatar.png",
+    "location": {
+      "city": "Черняховск",
+      "region": "Калининградская область",
+      "country": "Россия"
+    },
+    "role": "Роль Первая",
+    "raiting": 10
+  },
+  {
+    "__id": "8",
+    "name": {
+      "firstName": "Васи",
+      "secondName": "Иванов"
+    },
+    "age": 55,
+    "avatar": "/images/avatarTwo.jpg",
+    "location": {
+      "city": "Черняховск",
+      "region": "Калининградская область",
+      "country": "Россия"
+    },
+    "role": "Роль Первая",
+    "raiting": 10
+  }
+]

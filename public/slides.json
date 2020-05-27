@@ -1,0 +1,22 @@
+[
+    {
+        "img": "/images/slideOne.jpg",
+        "id": 1,
+        "likes": 0
+    },
+    {
+        "img": "/images/slideTwo.jpg",
+        "id": 2,
+        "likes": 0
+    },
+    {
+        "img": "/images/slideThree.webp",
+        "id": 3,
+        "likes": 0
+    },
+    {
+        "img": "/images/slideFour.jpg",
+        "id": 4,
+        "likes": 0
+    }
+]
